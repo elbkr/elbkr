@@ -1,4 +1,4 @@
-![welcome](https://imgur.com/a/JZqU4Aa)<a href="https://discord.gg/xCCpfth"> <img src="https://imgur.com/VCWA5ud.gif" align="right"/>
+![welcome](https://i.imgur.com/UOoEDaG.png)
 
 ```js
 <This is an introduction>
