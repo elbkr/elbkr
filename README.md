@@ -21,15 +21,6 @@ Learning everiday;).
 
 ---
 
-
-<a>
-  <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=reconlx&theme=tokyonight&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reconlx&show_icons=true&theme=onedark" />
-</a>
-</details> -->
-
 <p align="center">
 <a href="https://discord.gg/J8RNPvsKPc">
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
