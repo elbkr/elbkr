@@ -5,9 +5,9 @@
 Learning everiday;).
 ```
 
-- 🌱 Making YBF8, a discord bot 
-- 📣 YBF8 support server [reconlx](https://www.npmjs.com/package/reconlx), [vscode-sourcebin-uploader](https://marketplace.visualstudio.com/items?itemName=LimXuan.sourcebin-uploader)
-- 💎 Among us Multilanguaje server
+- 🙃 [Developing YBF8, a discord bot](https://discord.com/oauth2/authorize?client_id=800074066949832714&scope=bot&permissions=264)
+- 📣 [YBF8 support server](https://discord.gg/J8RNPvsKPc) 
+- 🔪 [Among us server with many languages](https://discord.gg/z2hkuccWdC)
 - ⚡ Fun fact: i failed 8 times while making discord bots.<br />
 
 ### Languages and Tools:
