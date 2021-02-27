@@ -17,7 +17,7 @@ Learning everiday;).
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
-<img align="left" alt="mongodb" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />  
+<img align="left" alt="mongodb" width="26px" src="https://imgur.com/gallery/qUm3OKX.png" />  
 
 ---
 
