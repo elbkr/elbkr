@@ -17,7 +17,7 @@ Learning everiday;).
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
 <img align="left" alt="node.js" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /> 
-<img align="left" alt="mongodb" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />  <br />
+<img align="left" alt="mongodb" width="26px" src="https://www.clipartmax.com/png/small/275-2754492_mongodb-nosql-document-oriented-database-portable-network-mongodb-logo.png" />  <br />
 
 ---
 
