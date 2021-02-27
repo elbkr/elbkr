@@ -16,7 +16,6 @@ Learning everiday;).
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
-<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <img align="left" alt="mongodb" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />  <br />
 
 ---
