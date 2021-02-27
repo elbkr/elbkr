@@ -1,4 +1,4 @@
-![welcome](https://i.imgur.com/UOoEDaG.png)
+![welcome](https://i.imgur.com/HhuBDlS.gif)
 
 ```js
 <This is an introduction>
