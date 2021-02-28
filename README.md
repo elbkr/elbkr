@@ -5,7 +5,7 @@
 Learning everiday;).
 ```
 
-- 🙃 [Developing YBF8, a discord bot](https://discord.com/oauth2/authorize?client_id=800074066949832714&scope=bot&permissions=264)
+- 🙃 [Developing YBF8, a discord bot](https://discord.com/oauth2/authorize?client_id=800074066949832714&scope=bot&permissions=993390022)
 - 📣 [YBF8 support server](https://discord.gg/J8RNPvsKPc) 
 - 🔪 [Among us server with many languages](https://discord.gg/z2hkuccWdC)
 - ⚡ Fun fact: i failed 8 times while making discord bots.<br />
@@ -22,7 +22,7 @@ Learning everiday;).
 ---
 
 <p align="center">
-     <a href="https://discord.com/oauth2/authorize?client_id=800074066949832714&scope=bot&permissions=264">
+     <a href="https://discord.com/oauth2/authorize?client_id=800074066949832714&scope=bot&permissions=993390022">
     <img src="https://i.imgur.com/YjTA36V.png" alt="Bot" width="80"/>
     </a>
     <a href="https://discord.gg/J8RNPvsKPc">
