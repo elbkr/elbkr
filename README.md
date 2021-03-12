@@ -22,12 +22,54 @@ Learning everiday;).
 ---
 
 <p align="center">
-     <a href="https://discord.com/oauth2/authorize?client_id=800074066949832714&scope=bot&permissions=993390022">
-    <img src="https://i.imgur.com/YjTA36V.png" alt="Bot" width="80"/>
-    </a>
-    <a href="https://discord.gg/J8RNPvsKPc">
-        <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
-    </a>
+
+ <a href="https://discord.com/oauth2/authorize?client_id=800074066949832714&scope=bot&permissions=993390022">
+
+   <img src="https://i.imgur.com/YjTA36V.png" alt="Bot" width="80"/>
+
+   </a>
+
+   <a href="https://discord.gg/J8RNPvsKPc">
+
+   <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
+
+   </a>
+
+  
+
+  <a href="https://top.gg/bot/800074066949832714/vote">
+
+  
+
+   <img src="https://i.imgur.com/zultNIi_d.webp?maxwidth=640&shape=thumb&fidelity=medium" alt="Vote" width="80"/>
+
+   
+
+   </a>
+
+ <a href="https://discord.com/oauth2/authorize?client_id=800074066949832714&scope=bot&permissions=993390022">
+
+   <img src="https://i.imgur.com/YjTA36V.png" alt="Bot" width="80"/>
+
+   </a>
+
+   <a href="https://discord.gg/J8RNPvsKPc">
+
+   <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
+
+   </a>
+
+  
+
+  <a href="https://top.gg/bot/800074066949832714/vote">
+
+  
+
+   <img src="https://i.imgur.com/zultNIi_d.webp?maxwidth=640&shape=thumb&fidelity=medium" alt="Vote" width="80"/>
+
+   
+
+   </a>
     <a href="https://discord.gg/z2hkuccWdC">
     <img src="https://i.redd.it/vqf8h73gvv961.png" alt="Among" width="80"/>
   </a>
