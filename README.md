@@ -44,12 +44,6 @@ Learning everiday;).
 
    </a>
 
-  <a href="https://top.gg/bot/800074066949832714/vote">
-
-   <img src="https://i.imgur.com/zultNIi_d.webp?maxwidth=640&shape=thumb&fidelity=medium" alt="Vote" width="80"/>
-
-   </a>
-
    <a href="https://discord.gg/z2hkuccWdC">
     <img src="https://i.redd.it/vqf8h73gvv961.png" alt="Among" width="80"/>
   </a>
