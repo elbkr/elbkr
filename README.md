@@ -5,7 +5,7 @@
 Learning everiday;).
 ```
 
-- 🙃 [Developing YBF8, a discord bot](https://discord.com/oauth2/authorize?client_id=800074066949832714&scope=bot&permissions=993390022)
+- 🙃 [Developing YBB8, Two bros discord bots]
 - 📣 [YBF8 support server](https://discord.gg/J8RNPvsKPc) 
 - 🔪 [Among us server with many languages](https://discord.gg/z2hkuccWdC)
 - ⚡ Fun fact: i failed 8 times while making discord bots.<br />
