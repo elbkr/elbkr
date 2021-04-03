@@ -2,7 +2,6 @@
 
 ```js
 <This is an introduction>
-Learning everiday;).
 ```
 
 - 🙃 Developing The Bot Bros, two discord bots
