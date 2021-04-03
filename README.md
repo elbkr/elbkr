@@ -5,10 +5,9 @@
 Learning everiday;).
 ```
 
-- 🙃 [Developing YBB8, Two bros discord bots]
-- 📣 [YBF8 support server](https://discord.gg/J8RNPvsKPc) 
-- 🔪 [Among us server with many languages](https://discord.gg/z2hkuccWdC)
-- ⚡ Fun fact: i failed 8 times while making discord bots.<br />
+- 🙃 Developing The Bot Bros, two discord bots
+- 📣 [The Bot Bros support server](https://discord.gg/J8RNPvsKPc) 
+- 🔪 [Among us server with many languages](https://discord.gg/z2hkuccWdC) <br />
 
 ### Languages and Tools:
 
