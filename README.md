@@ -1,15 +1,13 @@
 ![views](https://komarev.com/ghpvc/?username=elttayman&label=profile+views&style=flat-square)
-<p align="center">
-  
+
+
+ 
 ![welcome](https://i.imgur.com/HhuBDlS.gif)
 
 ```js
 <This is an introduction>
+ 🙃 Developing The Bot Bros, two discord bots
 ```
-
-- 🙃 Developing The Bot Bros, two discord bots
-- 📣 [The Bot Bros support server](https://discord.gg/J8RNPvsKPc) 
-- 🔪 [Among us server with many languages](https://discord.gg/z2hkuccWdC) <br />
 
 ### Languages and Tools:
 
