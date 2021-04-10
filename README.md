@@ -1,4 +1,6 @@
 ![views](https://komarev.com/ghpvc/?username=elttayman&label=profile+views&style=flat-square)
+<p align="center">
+  
 ![welcome](https://i.imgur.com/HhuBDlS.gif)
 
 ```js
