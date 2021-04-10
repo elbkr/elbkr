@@ -6,7 +6,7 @@
 
 ```js
 <This is an introduction>
- 🙃 Developing The Bot Bros, two discord bots
+ 🙃 Developing The Bro Bots, two discord bots
 ```
 
 ### Languages and Tools:
