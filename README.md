@@ -25,8 +25,9 @@
 
 ---
 
+![](lassroom.google.com/u/2/c/MTY0MzU2MTI1NTc4)
 <p align="center">
- <a href="https://top.gg/bot/820636341788344321">
+<a href="https://top.gg/bot/820636341788344321">
 
    <img align="left" src="https://media1.giphy.com/media/XEbEsDfD9LVsiFaXLd/source.gif" alt="click" width="80"/>
 
