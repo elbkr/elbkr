@@ -24,8 +24,9 @@
 
 
 ---
-<a href="https://fontmeme.com/es/fuentes-pixeladas/"><img align="center" src="https://fontmeme.com/permalink/210413/07e5e5ba27e57c17f6037a50feabd652.png" alt="fuentes-pixeladas"></a>
-
+<p align="center">
+<a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/210413/41d878a1d2ff0578e6386b0e1c68c0b5.png" alt="fuentes-pixeladas" border="0"></a>
+</p>
 <p align="center">
 
 <a href="https://top.gg/bot/820636341788344321">
