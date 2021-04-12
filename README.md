@@ -53,13 +53,13 @@
 
 <a href="https://discord.gg/xCfYr6R456">
 
-   <img src="https://cdn.discordapp.com/attachments/773221397928869888/831304682583752715/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3832303334383536333132.png" alt="Bot" width="80"/>
+   <img src="https://cdn.discordapp.com/attachments/773221397928869888/831304682583752715/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3832303334383536333132.png" alt="elttayman" width="80"/>
 
    </a>
    
  <a href="https://discord.gg/Eaxzd7hM3t">
 
-   <img src="https://cdn.discordapp.com/attachments/773221397928869888/831307211561107486/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3832303334383536333132.png" alt="Bot" width="80"/>
+   <img src="https://cdn.discordapp.com/attachments/773221397928869888/831309377998028840/ezgif.com-gif-maker_1.gif" alt="coding" width="80"/>
 
    </a>
     <a href="https://top.gg/bot/800074066949832714">
