@@ -1,7 +1,3 @@
-![views](https://komarev.com/ghpvc/?username=elttayman&label=profile+views&style=flat-square)
-
-
- 
 ![welcome](https://i.imgur.com/HhuBDlS.gif)
 
 ```js
@@ -48,3 +44,6 @@
 </p>
 
 <a href="https://www.buymeacoffee.com/elttayman"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a hotdog&emoji=🌭&slug=elttayman&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff"></a>
+
+<p align="right">
+![views](https://komarev.com/ghpvc/?username=elttayman&label=profile+views&style=flat-square)
