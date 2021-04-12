@@ -62,6 +62,11 @@
    <img src="https://cdn.discordapp.com/attachments/820348563128975360/820723238791020544/PicsArt_03-14-07.08.52.png" alt="Bot" width="80"/>
 
    </a>
+    <a href="https://top.gg/bot/800074066949832714">
+
+   <img src="https://cdn.discordapp.com/attachments/820348563128975360/820723238791020544/PicsArt_03-14-07.08.52.png" alt="Bot" width="80"/>
+
+   </a>
 </p>
 
 
