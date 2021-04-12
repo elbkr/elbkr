@@ -1,6 +1,7 @@
 
 
 ![welcome](https://i.imgur.com/HhuBDlS.gif)
+<a href="https://www.buymeacoffee.com/elttayman"><img align="left" src="https://img.buymeacoffee.com/button-api/?text=Buy me a hot dog&emoji=🌭&slug=elttayman&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" width='175'></a>
 
 ```js
 <This is an introduction>
@@ -45,8 +46,5 @@
   </a>
 </p>
 
-
-
-<a href="https://www.buymeacoffee.com/elttayman"><img align="left" src="https://img.buymeacoffee.com/button-api/?text=Buy me a hot dog&emoji=🌭&slug=elttayman&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" width='175'></a>
 
 <a href="https://top.gg/bot/800074066949832714"><img align="right" src="https://komarev.com/ghpvc/?username=elttayman&label=profile+views&style=flat-square"></a>
