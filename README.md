@@ -1,3 +1,6 @@
+<script src="https://www.paypal.com/sdk/js?client-id=test"></script>
+<script>paypal.Buttons().render('body');</script>
+
 ![welcome](https://i.imgur.com/HhuBDlS.gif)
 
 ```js
