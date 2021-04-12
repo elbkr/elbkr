@@ -25,7 +25,7 @@
 
 ---
 
-![](lassroom.google.com/u/2/c/MTY0MzU2MTI1NTc4)
+![](https://agora.xtec.cat/escolajverdaguer/wp-content/uploads/usu585/2018/01/FLECHA-HORIZONTAL-3-FLECHAS.gif)
 <p align="center">
 <a href="https://top.gg/bot/820636341788344321">
 
