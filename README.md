@@ -45,13 +45,6 @@
 
 
 
-<p align="right">
+<p align="left"> <a href="https://www.buymeacoffee.com/elttayman"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a hot dog&emoji=🌭&slug=elttayman&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff"></a>
  
-<a href="https://www.buymeacoffee.com/elttayman"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a hot dog&emoji=🌭&slug=elttayman&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff">
-</a>
- 
- <a href="https://top.gg/bot/800074066949832714">
-
-   <img src="https://komarev.com/ghpvc/?username=elttayman&label=profile+views&style=flat-square" alt="Views"/>
-
-   </a>
+<p align="right"> <a href="https://top.gg/bot/800074066949832714"><img src="https://komarev.com/ghpvc/?username=elttayman&label=profile+views&style=flat-square" alt="Views"/</a>
