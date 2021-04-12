@@ -57,9 +57,9 @@
 
    </a>
    
- <a href="https://top.gg/bot/800074066949832714">
+ <a href="https://discord.gg/Eaxzd7hM3t">
 
-   <img src="https://cdn.discordapp.com/attachments/820348563128975360/820723238791020544/PicsArt_03-14-07.08.52.png" alt="Bot" width="80"/>
+   <img src="https://cdn.discordapp.com/attachments/773221397928869888/831307211561107486/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3832303334383536333132.png" alt="Bot" width="80"/>
 
    </a>
     <a href="https://top.gg/bot/800074066949832714">
