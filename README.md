@@ -49,6 +49,20 @@
     <img src="https://i.redd.it/vqf8h73gvv961.png" alt="Among" width="80"/>
   </a>
 </p>
+<p align="center">
+
+<a href="https://top.gg/bot/820636341788344321">
+
+   <img src="https://cdn.discordapp.com/attachments/820348563128975360/820723238548013056/PicsArt_03-14-07.19.24.png" alt="Bot" width="80"/>
+
+   </a>
+   
+ <a href="https://top.gg/bot/800074066949832714">
+
+   <img src="https://cdn.discordapp.com/attachments/820348563128975360/820723238791020544/PicsArt_03-14-07.08.52.png" alt="Bot" width="80"/>
+
+   </a>
+</p>
 
 
 <a href="https://top.gg/bot/800074066949832714"><img align="right" src="https://komarev.com/ghpvc/?username=elttayman&label=profile+views&style=flat-square"></a>
