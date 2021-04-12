@@ -26,6 +26,11 @@
 ---
 
 <p align="center">
+ <a href="https://top.gg/bot/820636341788344321">
+
+   <img src="https://media1.giphy.com/media/XEbEsDfD9LVsiFaXLd/source.gif" alt="Bot" width="80"/>
+
+   </a>
 
 <a href="https://top.gg/bot/820636341788344321">
 
