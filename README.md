@@ -24,13 +24,13 @@
 
 
 ---
-<a href="https://top.gg/bot/820636341788344321">
+
+<p align="center">
+ <a href="https://top.gg/bot/820636341788344321">
 
    <img align="left" src="https://media1.giphy.com/media/XEbEsDfD9LVsiFaXLd/source.gif" alt="click" width="80"/>
 
    </a>
-<p align="center">
- 
 <a href="https://top.gg/bot/820636341788344321">
 
    <img src="https://cdn.discordapp.com/attachments/820348563128975360/820723238548013056/PicsArt_03-14-07.19.24.png" alt="Bot" width="80"/>
