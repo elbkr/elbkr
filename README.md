@@ -25,7 +25,7 @@
 
 ---
 <p align="center">
-<a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/210413/3c903e4351ada4058296a67e35f1a30b.png" alt="fuentes-pixeladas" width="500"></a>
+<a href="https://discord.gg/xCfYr6R456"><img src="https://cdn.discordapp.com/attachments/773221397928869888/831631249013473300/3c903e4351ada4058296a67e35f1a30b.png" alt="click here" width="500"></a>
 </p>
 <p align="center">
 
