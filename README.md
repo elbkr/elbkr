@@ -2,8 +2,7 @@
 ![](https://im2.ezgif.com/tmp/ezgif-2-b1e2c34a45bc.gif)
 
 <p align="right">
-<a href="https://www.buymeacoffee.com/elttayman"><img align="right" src="https://img.buymeacoffee.com/button-api/?text=Buy me a hot dog&emoji=🌭&slug=elttayman&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" width='175'>
- </a> 
+<a href="https://www.buymeacoffee.com/elttayman"><img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 175px !important;" ></a>
 <br />
 </p>
 
