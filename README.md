@@ -65,7 +65,7 @@
    </a>
     <a href="https://discord.com/oauth2/authorize?client_id=815329807377498153&scope=bot&permissions=2079714502">
 
-   <img src="https://cdn.discordapp.com/attachments/792903485594665000/835222979281420347/chroma-6bTyk990.png" alt="Bot" width="80"/>
+   <img src="https://cdn.discordapp.com/attachments/792903485594665000/835223730593726494/ZXZXCzxczxcvzxcvzxcv.png" alt="Bot" width="80"/>
 
    </a>
 </p>
