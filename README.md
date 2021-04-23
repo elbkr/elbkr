@@ -65,7 +65,7 @@
    </a>
     <a href="https://top.gg/bot/800074066949832714">
 
-   <img src="https://cdn.discordapp.com/attachments/773221397928869888/835188753067802714/ezgif.com-gif-maker.png" alt="Bot" width="80"/>
+   <img src="https://cdn.discordapp.com/attachments/773221397928869888/835195869259104266/gfrg.png" alt="Bot" width="80"/>
 
    </a>
 </p>
