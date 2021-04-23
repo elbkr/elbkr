@@ -63,7 +63,7 @@
    <img src="https://cdn.discordapp.com/attachments/773221397928869888/831309377998028840/ezgif.com-gif-maker_1.gif" alt="coding" width="80"/>
 
    </a>
-    <a href="https://top.gg/bot/800074066949832714">
+    <a href="https://discord.com/oauth2/authorize?client_id=815329807377498153&scope=bot&permissions=2079714502">
 
    <img src="https://cdn.discordapp.com/attachments/792903485594665000/835222979281420347/chroma-6bTyk990.png" alt="Bot" width="80"/>
 
