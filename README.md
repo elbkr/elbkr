@@ -21,7 +21,7 @@
  
 <a href="https://www.patreon.com/elttayman">
  
- <img src="https://cdn.discordapp.com/attachments/773221397928869888/837780616531411034/patreon.png" alt="patreon" width="40"/>
+ <img src="https://cdn.discordapp.com/attachments/773221397928869888/837787510116581417/pngegg_5_2.png" alt="patreon" width="40"/>
  
  </a>
  
