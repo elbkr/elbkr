@@ -25,7 +25,7 @@
 
 <p align="left">
  
-<a href="https://discord.gg/xCfYr6R456">
+<a href="https://twitter.com/elttayman">
  
  <img src="https://cdn.discordapp.com/attachments/773221397928869888/837749809141252166/pngegg_2.png" alt="twitter" width="40">
  
@@ -70,7 +70,7 @@
 </p>
 <p align="center">
 
-<a href="https://discord.gg/xCfYr6R456">
+<a href="https://discord.com/users/521311050193436682">
 
    <img src="https://cdn.discordapp.com/attachments/773221397928869888/835187986068406343/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3737333232313339373932.png" alt="elttayman" width="80"/>
 
