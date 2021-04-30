@@ -1,29 +1,5 @@
 
-![](https://cdn.discordapp.com/attachments/773221397928869888/833801890600976434/elttayman_logo.gif)
-
-<p align="right">
-<a href="https://www.buymeacoffee.com/elttayman"><img align="right" src="https://img.buymeacoffee.com/button-api/?text=Buy me a hot dog&emoji=🌭&slug=elttayman&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" width='175'>
- </a> <br />
-</p>
-
-```js
-<This is an introduction>
- Developing The Bro Bots, two discord bots 🙃 
-```
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
-<img align="left" alt="node.js" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /> 
-<img align="left" alt="mongodb" width="26px" src="https://i.imgur.com/BYdgNwt.png" />  
-<img align="left" alt="html" width="26px" src="https://i.imgur.com/PZ44WAF_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <img align="left" alt="css" width="26px" src="https://i.imgur.com/4eIE4kN_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <br />
-
-### Reach me:
-
-<p align="left">
+<p align="center">
  
 <a href="https://twitter.com/elttayman">
  
@@ -45,6 +21,27 @@
    
 </p>
 
+![](https://cdn.discordapp.com/attachments/773221397928869888/833801890600976434/elttayman_logo.gif)
+
+<p align="right">
+<a href="https://www.buymeacoffee.com/elttayman"><img align="right" src="https://img.buymeacoffee.com/button-api/?text=Buy me a hot dog&emoji=🌭&slug=elttayman&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" width='175'>
+ </a> <br />
+</p>
+
+```js
+<This is an introduction>
+ Developing The Bro Bots, two discord bots 🙃 
+```
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
+<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
+<img align="left" alt="node.js" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /> 
+<img align="left" alt="mongodb" width="26px" src="https://i.imgur.com/BYdgNwt.png" />  
+<img align="left" alt="html" width="26px" src="https://i.imgur.com/PZ44WAF_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <img align="left" alt="css" width="26px" src="https://i.imgur.com/4eIE4kN_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <br />
 
 ---
 <p align="center">
