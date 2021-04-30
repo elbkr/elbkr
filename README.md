@@ -19,6 +19,12 @@
  
  </a>
  
+<a href="https://www.patreon.com/elttayman">
+ 
+ <img src="https://cdn.discordapp.com/attachments/773221397928869888/837780616531411034/patreon.png" alt="patreon" width="40"/>
+ 
+ </a>
+ 
  <a href="https://open.spotify.com/user/6pvuvgli1so4llgc66dxjcdkd?si=0870274e1e2b4a30">
  
  <img src="https://cdn.discordapp.com/attachments/773221397928869888/837769125241552906/pngegg_5_1.png" alt="spotify" width="40"/>
