@@ -21,7 +21,7 @@
  
  <a href="https://open.spotify.com/user/6pvuvgli1so4llgc66dxjcdkd?si=0870274e1e2b4a30">
  
- <img src="https://cdn.discordapp.com/attachments/773221397928869888/837762115321856050/spotify.png" alt="spotify" width="40"/>
+ <img src="https://cdn.discordapp.com/attachments/773221397928869888/837769125241552906/pngegg_5_1.png" alt="spotify" width="40"/>
  
  </a>
    
