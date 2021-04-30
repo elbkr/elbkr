@@ -15,7 +15,13 @@
    
  <a href="mailto:thettayman@gmail.com">
  
- <img src="https://cdn.discordapp.com/attachments/773221397928869888/837760242417926194/pngegg_5.png" alt="discord" width="40"/>
+ <img src="https://cdn.discordapp.com/attachments/773221397928869888/837760242417926194/pngegg_5.png" alt="mail" width="40"/>
+ 
+ </a>
+ 
+ <a href="https://open.spotify.com/user/6pvuvgli1so4llgc66dxjcdkd?si=0870274e1e2b4a30">
+ 
+ <img src="https://cdn.discordapp.com/attachments/773221397928869888/837761212812754954/pngegg_6.png" alt="spotify" width="40"/>
  
  </a>
    
