@@ -21,6 +21,24 @@
 <img align="left" alt="mongodb" width="26px" src="https://i.imgur.com/BYdgNwt.png" />  
 <img align="left" alt="html" width="26px" src="https://i.imgur.com/PZ44WAF_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <img align="left" alt="css" width="26px" src="https://i.imgur.com/4eIE4kN_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <br />
 
+### Reach me:
+
+<p align="left">
+ 
+<a href="https://discord.gg/xCfYr6R456">
+ 
+ <img src="https://cdn.discordapp.com/attachments/773221397928869888/837749809141252166/pngegg_2.png" alt="twitter" width="80">
+ 
+ </a>
+
+<a href="https://top.gg/bot/820636341788344321">
+ 
+ <img src="https://cdn.discordapp.com/attachments/773221397928869888/837749811171164180/pngegg_1.png" alt="Bot" width="80"/>
+ 
+ </a>
+   
+</p>
+
 
 ---
 <p align="center">
