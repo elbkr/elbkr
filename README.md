@@ -27,13 +27,13 @@
  
 <a href="https://discord.gg/xCfYr6R456">
  
- <img src="https://cdn.discordapp.com/attachments/773221397928869888/837749809141252166/pngegg_2.png" alt="twitter" width="80">
+ <img src="https://cdn.discordapp.com/attachments/773221397928869888/837749809141252166/pngegg_2.png" alt="twitter" width="40">
  
  </a>
 
 <a href="https://top.gg/bot/820636341788344321">
  
- <img src="https://cdn.discordapp.com/attachments/773221397928869888/837749811171164180/pngegg_1.png" alt="Bot" width="80"/>
+ <img src="https://cdn.discordapp.com/attachments/773221397928869888/837749811171164180/pngegg_1.png" alt="discord" width="40"/>
  
  </a>
    
