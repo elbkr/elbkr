@@ -70,7 +70,7 @@
 
    <a href="https://discord.gg/J8RNPvsKPc">
 
-   <img src="https://cdn.discordapp.com/attachments/773221397928869888/835869701405540412/PicsArt_04-25-03.27.12.png" alt="Discord" width="80"/>
+   <img src="https://cdn.discordapp.com/attachments/773221397928869888/841063136241254410/discordia.png" alt="Discord" width="80"/>
 
    </a>
 
