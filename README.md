@@ -27,6 +27,8 @@
    
 </p>
 
+<iframe src="https://widget.style/widget?token=9VNY4fkh&theme=modern" width="350" height="450" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ![](https://cdn.discordapp.com/attachments/773221397928869888/833801890600976434/elttayman_logo.gif)
 
 <p align="right">
