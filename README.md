@@ -54,7 +54,17 @@
 <p align="center">
 <a href="https://discord.gg/xCfYr6R456"><img src="https://cdn.discordapp.com/attachments/773221397928869888/831631249013473300/3c903e4351ada4058296a67e35f1a30b.png" alt="click here" width="500"></a>
 </p>
+
 <p align="center">
+ 
+ <a href="https://discord.gg/J8RNPvsKPc">
+
+   <img src="https://cdn.discordapp.com/attachments/773221397928869888/841063136241254410/discordia.png" alt="Discord" width="80"/>
+
+   </a>
+</p>
+
+ <p align="center">
 
 <a href="https://top.gg/bot/820636341788344321">
 
