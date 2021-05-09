@@ -27,11 +27,11 @@
    
 </p>
 
-<iframe src="https://widget.style/widget?token=9VNY4fkh&theme=modern" width="350" height="450" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 ![](https://cdn.discordapp.com/attachments/773221397928869888/833801890600976434/elttayman_logo.gif)
 
 <p align="right">
+ <iframe src="https://widget.style/widget?token=9VNY4fkh&theme=modern" width="350" height="450" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+ 
 <a href="https://www.buymeacoffee.com/elttayman"><img align="right" src="https://img.buymeacoffee.com/button-api/?text=Buy me a hot dog&emoji=🌭&slug=elttayman&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" width='175'>
  </a> <br />
 </p>
