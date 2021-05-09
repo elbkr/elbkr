@@ -7,7 +7,7 @@
  
  </a>
 
-<a href="https://top.gg/bot/820636341788344321">
+<a href="https://discord.com/users/521311050193436682">
  
  <img src="https://cdn.discordapp.com/attachments/773221397928869888/837749811171164180/pngegg_1.png" alt="discord" width="40"/>
  
