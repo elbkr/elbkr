@@ -57,9 +57,9 @@
 
 <p align="center">
  
- <a href="https://discord.gg/J8RNPvsKPc">
+ <a href="https://guilded.gg/thebrobots">
 
-   <img src="https://cdn.discordapp.com/attachments/773221397928869888/841063136241254410/discordia.png" alt="Discord" width="80"/>
+   <img src="https://cdn.discordapp.com/attachments/773221397928869888/841063139242934302/guilde.png" alt="Discord" width="80"/>
 
    </a>
 </p>
