@@ -39,7 +39,7 @@
 <This is an introduction>
  Developing The Bro Bots, two discord bots 🙃 
 ```
-<img align="left" alt="Sparkle hosting" width="40" src="https://sparklehosting.org/assets/images/svg/logo.png" /> Cheap Discord bots hosting! [Click here](sparklehosting.org)
+<img align="left" alt="Sparkle hosting" width="40" src="https://cdn.discordapp.com/attachments/838482670655897650/858323392531922954/sparkle.png" />Sparkle Hosting: Cheap Discord bots hosting! [Click here](sparklehosting.org)
 
 ### Languages and Tools:
 
