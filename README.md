@@ -31,8 +31,7 @@
 
 <p align="right">
  
-<a href="https://www.buymeacoffee.com/elttayman"><img align="right" src="https://img.buymeacoffee.com/button-api/?text=Buy me a hot dog&emoji=🌭&slug=elttayman&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" width='175'>
- </a> <br />
+<a href='https://ko-fi.com/R6R356KKI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a><br />
 </p>
 
 ```js
