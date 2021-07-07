@@ -47,7 +47,8 @@
 <img align="left" alt="react" width="26px" src="https://media.discordapp.net/attachments/838482670655897650/862403953324064788/reactjs-logo.png" />
 <img align="left" alt="node.js" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /> 
 <img align="left" alt="mongodb" width="26px" src="https://i.imgur.com/BYdgNwt.png" />  
-<img align="left" alt="html" width="26px" src="https://i.imgur.com/PZ44WAF_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <img align="left" alt="css" width="26px" src="https://i.imgur.com/4eIE4kN_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <br />
+<img align="left" alt="npm" width="26px" src="https://authy.com/wp-content/uploads/npm-logo.png" /> 
+<img align="left" alt="css" width="26px" src="https://i.imgur.com/4eIE4kN_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <br />
 
 ---
 <p align="center">
