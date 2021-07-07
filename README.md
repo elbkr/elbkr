@@ -36,6 +36,7 @@
 ```js
 <This is an introduction>
  Developing The Bro Bots, two discord bots 🙃 
+ Currently learning react ☣️
 ```
 
 ### Languages and Tools:
