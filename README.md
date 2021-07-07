@@ -54,15 +54,6 @@
 <a href="https://discord.gg/xCfYr6R456"><img src="https://cdn.discordapp.com/attachments/773221397928869888/831631249013473300/3c903e4351ada4058296a67e35f1a30b.png" alt="click here" width="500"></a>
 </p>
 
-<p align="center">
- 
- <a href="https://guilded.gg/thebrobots">
-
-   <img src="https://cdn.discordapp.com/attachments/773221397928869888/841063139242934302/guilde.png" alt="Discord" width="80"/>
-
-   </a>
-</p>
-
  <p align="center">
 
 <a href="https://top.gg/bot/820636341788344321">
@@ -95,16 +86,6 @@
 
    </a>
    
- <a href="https://discord.gg/Eaxzd7hM3t">
-
-   <img src="https://cdn.discordapp.com/attachments/773221397928869888/831309377998028840/ezgif.com-gif-maker_1.gif" alt="coding" width="80"/>
-
-   </a>
-    <a href="https://discord.com/oauth2/authorize?client_id=815329807377498153&scope=bot&permissions=2079714502">
-
-   <img src="https://cdn.discordapp.com/attachments/773221397928869888/835878451968999444/cr_1.png" alt="Bot" width="80"/>
-
-   </a>
 </p>
 
 
