@@ -1,4 +1,3 @@
-![](https://hit.yhype.me/github/profile?user_id=77508640)
 <p align="center">
  
 <a href="https://twitter.com/elttcaiman">
@@ -88,4 +87,4 @@
    </a>
    
 </p>
-
+<img align="right" src="https://komarev.com/ghpvc/?username=elttcaiman&label=visits&color=ff69b4" />
