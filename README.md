@@ -90,4 +90,4 @@
 </p>
 
 
-<a href="https://top.gg/bot/800074066949832714"><img align="right" src="https://komarev.com/ghpvc/?username=elttayman&label=profile+views&style=flat-square"></a>
+<img align="right" src="https://komarev.com/ghpvc/?username=elttayman&label=profile+views&style=flat-square"></a>
