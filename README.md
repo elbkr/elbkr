@@ -89,5 +89,4 @@
    
 </p>
 
-
-<img align="right" src="https://komarev.com/ghpvc/?username=elttayman&label=profile+views&style=flat-square"></a>
+<img align="right" src="https://hit.yhype.me/github/profile?user_id=77508640">
