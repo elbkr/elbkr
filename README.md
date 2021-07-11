@@ -40,14 +40,14 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="discord.js" width="32x" src="https://cdn.discordapp.com/attachments/838482670655897650/862408463476326400/2d5777275b5f56e42a131898ab061204.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="react" width="26px" src="https://media.discordapp.net/attachments/838482670655897650/862403953324064788/reactjs-logo.png" />
-<img align="left" alt="node.js" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /> 
-<img align="left" alt="mongodb" width="26px" src="https://i.imgur.com/BYdgNwt.png" />  
-<img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/npm/logos/master/npm%20square/n-64.png" /> 
-<img align="left" alt="css" width="26px" src="https://i.imgur.com/4eIE4kN_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /> <br />
+<a href="https://code.visualstudio.com"><img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" /></a>
+<a href="https://discord.js.org"><img align="left" alt="discord.js" width="32x" src="https://cdn.discordapp.com/attachments/838482670655897650/862408463476326400/2d5777275b5f56e42a131898ab061204.png" /></a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" /></a>
+<a href="https://reactjs.org"><img align="left" alt="react" width="26px" src="https://media.discordapp.net/attachments/838482670655897650/862403953324064788/reactjs-logo.png" /></a>
+<a href="https://nodejs.org/"><img align="left" alt="node.js" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a> 
+<a href="https://www.mongodb.com"><img align="left" alt="mongodb" width="26px" src="https://i.imgur.com/BYdgNwt.png" /></a>  
+<a href="https://www.npmjs.com"><img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/npm/logos/master/npm%20square/n-64.png" /></a> 
+<a href="https://developer.mozilla.org/es/docs/Web/CSS"><img align="left" alt="css" width="26px" src="https://i.imgur.com/4eIE4kN_d.webp?maxwidth=640&shape=thumb&fidelity=medium" /></a> <br />
 
 ---
 <p align="center">
