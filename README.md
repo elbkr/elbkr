@@ -85,6 +85,11 @@
    <img src="https://cdn.discordapp.com/attachments/773221397928869888/835187986068406343/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3737333232313339373932.png" alt="elttayman" width="80"/>
 
    </a>
+ <a href="https://discord.com/invite/eXrQv9e699">
+
+   <img src="https://cdn.discordapp.com/attachments/841771737666682920/867412665244057610/cronos_dm.png" alt="cronoos" width="80"/>
+
+   </a>
    
 </p>
 <img align="right" src="https://komarev.com/ghpvc/?username=elttcaiman&label=visits&color=ff69b4" />
