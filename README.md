@@ -12,7 +12,7 @@
  
  </a>
    
- <a href="mailto:elttcaiman@gmail.com">
+ <a href="mailto:noocambiar@gmail.com">
  
  <img src="https://cdn.discordapp.com/attachments/773221397928869888/837760242417926194/pngegg_5.png" alt="mail" width="40"/>
  
