@@ -51,45 +51,11 @@
 
 ---
 <p align="center">
-<a href="https://discord.gg/xCfYr6R456"><img src="https://cdn.discordapp.com/attachments/773221397928869888/831631249013473300/3c903e4351ada4058296a67e35f1a30b.png" alt="click here" width="500"></a>
-</p>
 
- <p align="center">
+<a href="https://discord.gg/uA2Epyg8uR">
 
-<a href="https://top.gg/bot/820636341788344321">
-
-   <img src="https://cdn.discordapp.com/attachments/820348563128975360/820723238548013056/PicsArt_03-14-07.19.24.png" alt="Bot" width="80"/>
+   <img src="https://cdn.discordapp.com/attachments/773221397928869888/883691820905816084/com-gif-maker-unscreen.gif" alt="bkr lounge" width="150"/>
 
    </a>
-   
- <a href="https://top.gg/bot/800074066949832714">
-
-   <img src="https://cdn.discordapp.com/attachments/820348563128975360/820723238791020544/PicsArt_03-14-07.08.52.png" alt="Bot" width="80"/>
-
-   </a>
-
-   <a href="https://discord.gg/J8RNPvsKPc">
-
-   <img src="https://cdn.discordapp.com/attachments/773221397928869888/841063136241254410/discordia.png" alt="Discord" width="80"/>
-
-   </a>
-
-   <a href="https://discord.gg/z2hkuccWdC">
-    <img src="https://i.redd.it/vqf8h73gvv961.png" alt="Among" width="80"/>
-  </a>
-</p>
-<p align="center">
-
-<a href="https://discord.com/users/521311050193436682">
-
-   <img src="https://cdn.discordapp.com/attachments/773221397928869888/835187986068406343/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3737333232313339373932.png" alt="elttayman" width="80"/>
-
-   </a>
- <a href="https://discord.com/invite/eXrQv9e699">
-
-   <img src="https://cdn.discordapp.com/attachments/841771737666682920/867412665244057610/cronos_dm.png" alt="cronoos" width="80"/>
-
-   </a>
-   
 </p>
 <img align="right" src="https://komarev.com/ghpvc/?username=elttcaiman&label=visits&color=ff69b4" />
