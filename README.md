@@ -34,7 +34,7 @@
 
 ```js
 <This is an introduction>
-  ̶D̶e̶v̶e̶l̶o̶p̶i̶n̶g̶ ̶T̶h̶e̶ ̶B̶r̶o̶ ̶B̶o̶t̶s̶,̶ ̶t̶w̶o̶ ̶d̶i̶s̶c̶o̶r̶d̶ ̶b̶o̶t̶s̶ 
+ ̶D̶e̶v̶e̶l̶o̶p̶i̶n̶g̶ ̶T̶h̶e̶ ̶B̶r̶o̶ ̶B̶o̶t̶s̶,̶ ̶t̶w̶o̶ ̶d̶i̶s̶c̶o̶r̶d̶ ̶b̶o̶t̶s̶ 
  Currently learning react ☣️
 ```
 
