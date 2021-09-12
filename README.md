@@ -54,8 +54,8 @@
 
 <a href="https://discord.gg/uA2Epyg8uR">
 
-   <img src="https://cdn.discordapp.com/attachments/773221397928869888/883691820905816084/com-gif-maker-unscreen.gif" alt="bkr lounge" width="150"/>
+   <img src="https://cdn.discordapp.com/attachments/773221397928869888/886701637530427412/ezgif.com-gif-maker.gif" alt="bkr lounge" width="150"/>
 
    </a>
 </p>
-<img align="right" src="https://komarev.com/ghpvc/?username=elttcaiman&label=visits&color=ff69b4" />
+<img align="right" src="https://komarev.com/ghpvc/?username=elbkr&label=visits&color=ff69b4" />
