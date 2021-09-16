@@ -26,7 +26,7 @@
    
 </p>
 
-<img src="https://cdn.discordapp.com/attachments/838482670655897650/866292349524901898/Vanilla-1s-286px.gif" width="250" />
+<img src="https://cdn.discordapp.com/attachments/838482670655897650/888085114037338134/elbkr.png" width="250" />
 
 <p align="right">
 <a href='https://ko-fi.com/R6R356KKI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a><br />
