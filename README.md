@@ -55,4 +55,11 @@
 
    </a>
 </p>
+
+<details>
+  <summary:star: GitHub Stats</summary>
+  <br>
+  <img align="left" alt="CodeWithSwastik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elbkr&show_icons=true&hide_border=true&theme=buefy" />
+
+</details>
 <img align="right" src="https://komarev.com/ghpvc/?username=elbkr&label=visits&color=ff69b4" />
