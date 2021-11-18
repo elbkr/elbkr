@@ -1,5 +1,6 @@
+<p align="right">
 <img align="center" src="https://komarev.com/ghpvc/?username=elbkr&label=visits&color=ff69b4" />
-
+</p>
 <p align="center">
  
 <a href="https://twitter.com/elbkrrr">
