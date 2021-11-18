@@ -1,3 +1,5 @@
+<img align="left" src="https://komarev.com/ghpvc/?username=elbkr&label=visits&color=ff69b4" />
+
 <p align="center">
  
 <a href="https://twitter.com/elbkrrr">
@@ -34,10 +36,6 @@
  NOT developing The Bro Bots, two Discord bots
  Currently learning react ☣️
 ```
-<details align="left">
-  <summary>:star: GitHub Stats</summary>
-   <img align="left" alt="CodeWithSwastik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elbkr&show_icons=true&hide_border=true&theme=graywhite" />
-</details> 
 
 ### Languages and Tools:
 
@@ -60,4 +58,7 @@
    </a>
 </p>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=elbkr&label=visits&color=ff69b4" />
+<details align="left">
+  <summary>:star: GitHub Stats</summary>
+   <img align="left" alt="CodeWithSwastik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elbkr&show_icons=true&hide_border=true&theme=graywhite" />
+</details> 
