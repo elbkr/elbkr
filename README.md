@@ -32,6 +32,12 @@
 <img src="images/elbkr.png" width="300" />
  </p>
 
+ <p align ="center">
+   <a href="https://www.jetbrains.com/community/opensource/#support">
+    <img src="readme/jb_beam.png" alt="jetbrains" width="25"/>
+  </a>  Thanks to <a href="https://www.jetbrains.com/community/opensource/#support">JetBrains</a> for providing me free license for developing my projects!
+  </p>
+  
 ```js
 <This is an introduction>
  NOT developing The Bro Bots, two Discord bots
