@@ -21,9 +21,9 @@
  
  </a>
  
- <a href="https://open.spotify.com/user/6pvuvgli1so4llgc66dxjcdkd?si=0870274e1e2b4a30">
+ <a href="https://fiverr.com/elbkrr">
  
- <img src="images/contact/spotify.png" alt="spotify" width="40"/>
+ <img src="images/contact/fiverr.png" alt="fiverr" width="40"/>
  
  </a>
    
