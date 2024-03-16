@@ -56,14 +56,6 @@
 <a href="https://www.jetbrains.com"><img align="left" alt="JET Brains" width="32px" src="images/icons/jetbrains.png" /></a> <br />
 
 ---
-<p align="center">
-
-<a href="https://discord.gg/uA2Epyg8uR">
-
-   <img src="images/join-server.gif" alt="join server" width="150"/>
-
-   </a>
-</p>
 
 <details align="left">
   <summary>:star: GitHub Stats</summary>
