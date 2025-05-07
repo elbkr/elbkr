@@ -49,6 +49,8 @@
 <a href="https://discord.js.org"><img align="left" alt="discord.js" width="32x" src="images/icons/discordjs.png" /></a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img align="left" alt="js" width="26px" src="images/icons/js.png" /></a>
 <a href="https://reactjs.org"><img align="left" alt="react" width="26px" src="images/icons/react.png" /></a>
+<a href="https://cplusplus.com"><img align="left" alt="cpp" width="26px" src="images/icons/cpp.png" /></a>
+<a href="http://devdocs.io/c/"><img align="left" alt="c" width="26px" src="images/icons/c.png" /></a>
 <a href="https://nodejs.org/"><img align="left" alt="node.js" width="26px" src="images/icons/nodejs.png" /></a>
 <a href="https://www.mongodb.com"><img align="left" alt="mongodb" width="26px" src="images/icons/mongodb.png" /></a>
 <a href="https://www.npmjs.com"><img align="left" alt="npm" width="26px" src="images/icons/npm.png" /></a>
